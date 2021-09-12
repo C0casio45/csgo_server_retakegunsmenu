@@ -21,7 +21,7 @@
 #pragma semicolon 1
 #pragma newdecls required
 
-bool GiveAWPCT = true,
+bool GiveAWPCT = false,
 	GiveAWPT = true;
 int PrimaryChoice[MAXPLAYERS+1],
 	SecondaryChoice[MAXPLAYERS+1],
